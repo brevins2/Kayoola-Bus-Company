@@ -1,0 +1,26 @@
+body{
+	height: 600px;
+	width: auto;
+	/* background-image: url("lock.jpeg");
+	background-repeat: no-repeat; */
+}
+.texts{
+	width: 800px;
+	height: 400px;
+	text-align: center;
+	background-color: white;
+	font-family: Times New Roman;
+	font-size: 25px;
+	padding: 2%;
+	opacity: 1.0;
+	filter: alpha(opacity = 60);
+}
+.inputs{
+	width: 1340px;
+	height: 500px;
+}
+.inputs input{
+	width: 300px;
+	height: 25px;
+	
+}
